@@ -1,6 +1,5 @@
 #include “function.h”
-int main()
+int find_min(int *arr, int length);
 {
- cout << "First commit" << endl;
- return 0;
-} ion.h”
+ // code
+}
